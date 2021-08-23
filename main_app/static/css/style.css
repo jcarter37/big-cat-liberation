@@ -2,10 +2,12 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    font-family: 'Red Hat Display', sans-serif;
   }
   
   main {
     flex: 1 0 auto;
+    font-family: 'Red Hat Display', sans-serif;
   }
   
   footer.page-footer {
